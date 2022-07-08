@@ -1,0 +1,10 @@
+### Added from Pi-hole Query Log
+0.0.0.0 ads2.uptobox.com
+0.0.0.0 location.services.mozilla.com
+### Fake Domains
+0.0.0.0 indihomeonline.com
+0.0.0.0 indihome.marketing
+0.0.0.0 indihomeinternet.com
+0.0.0.0 indihomes.id
+0.0.0.0 indihomesurabaya.info
+0.0.0.0 myindihomesurabaya.com
