@@ -1,3 +1,11 @@
+### NextDNS Blocklist Contains:
+### - NextDNS Ads & Trackers Blocklist
+### - DNS Rebinding
+### - Parked Domains
+### - Newly Registered Domains (NRDs)
+### - AI-Driven Threat Detection
+### - Threat Intelligence Feeds
+
 ### NextDNS Top Blocklist
 # 0.0.0.0 dns.google
 # 0.0.0.0 dit.whatsapp.net
